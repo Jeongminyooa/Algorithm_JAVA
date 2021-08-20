@@ -7,3 +7,7 @@
 ***
 
 ## BOJ
+
+### BFS
+- [1926번 그림 실버1](./BOJ/bfs/BOJ_1926.java)
+- [4179번 불! 골드4](/BOJ/bfs/BOJ_4179.java)
