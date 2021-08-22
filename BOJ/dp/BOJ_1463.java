@@ -1,6 +1,5 @@
 package dp;
 import java.io.*;
-import java.util.*;
 
 public class BOJ_1463 {
 	static final int SIZE = 1000001;
