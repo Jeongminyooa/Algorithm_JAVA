@@ -16,9 +16,7 @@ public class BOJ_1629 {
 		C = Integer.parseInt(st.nextToken());
 		
 		System.out.println(pow(A, B, C));
-		
 	}
-	
 	//base : นุ, exponent : ม๖ผ๖
 	static long pow(long base, long exponent, long C) {
 		
