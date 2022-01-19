@@ -1,30 +1,66 @@
-## Algorithm_Java
-ì •ë¯¼ìœ ì•„ì˜ ì•Œê³ ë¦¬ì¦˜ ê³µë¶€ìš© ì½”ë“œì…ë‹ˆë‹¤.
-BOJëŠ” ë¬¸ì œì´ë¦„ í‹°ì–´ë¡œ ì •ë¦¬í•´ë†“ì•˜ìŠµë‹ˆë‹¤. í‹°ì–´ëŠ” solved.acë¥¼ ì°¸ê³ í•´ ì‘ì„±í•˜ì˜€ìŠµë‹ˆë‹¤.
-```
-ì‚¬ìš© ì–¸ì–´ : Java
-```
+## Algorithm Problem Solving with JAVA
+¾Ë°í¸®Áò ¹®Á¦ Ç®ÀÌ¸¦ ±â·ÏÇÏ°í ÀÖ½À´Ï´Ù. 
+```Æ¼¾î : ¹®Á¦¹øÈ£ ¹®Á¦ÀÌ¸§```
+ ¹®Á¦ Æ¼¾î´Â solved.ac¸¦ Âü°íÇÏ¿´½À´Ï´Ù.
 
 ***
 
 ## BOJ
 
 ### BFS
-- [1926 ê·¸ë¦¼ ì‹¤ë²„1](./BOJ/bfs/BOJ_1926.java)
-- [4179 ë¶ˆ! ê³¨ë“œ4](/BOJ/bfs/BOJ_4179.java)
-- [1679 ìˆ¨ë°”ê¼­ì§ˆ ì‹¤ë²„1](/BOJ/bfs/BOJ_1679.java)
-- [1463 1ë¡œ ë§Œë“¤ê¸° ì‹¤ë²„3](./BOJ/bfs/BOJ_1463.java)
+- <span style="color:silver">**½Ç¹ö1** </span>[1926¹ø ±×¸²](./BOJ/bfs/BOJ_1926.java)
+- <span style="color:gold">**°ñµå4** </span>[4179¹ø ºÒ!](/BOJ/bfs/BOJ_4179.java)
+- <span style="color:silver">**½Ç¹ö1** </span>[1679¹ø ¼û¹Ù²ÀÁú](/BOJ/bfs/BOJ_1679.java)
+- <span style="color:silver">**½Ç¹ö3** </span>[1463¹ø 1·Î ¸¸µé±â](./BOJ/bfs/BOJ_1463.java)
 
 ### DP
-- [1149 RGBê±°ë¦¬ ì‹¤ë²„1](./BOJ/dp/BOJ_1149.java)
-- [11659 êµ¬ê°„ í•© êµ¬í•˜ê¸° 4 ì‹¤ë²„3](./BOJ/dp/BOJ_11659.java)
-- [11726 2Ã—n íƒ€ì¼ë§ ì‹¤ë²„3](./BOJ/dp/BOJ_11726.java)
-<!-- [11727 2Ã—n íƒ€ì¼ë§3 ](./BOJ/dp/BOJ_11727.java)-->
-- [12852 1ë¡œ ë§Œë“¤ê¸°2 ì‹¤ë²„1](./BOJ/dp/BOJ_12852.java)
-- [1463 1ë¡œ ë§Œë“¤ê¸° ì‹¤ë²„3](./BOJ/dp/BOJ_1463.java)
-- [2579 ê³„ë‹¨ ì˜¤ë¥´ê¸° ì‹¤ë²„3](./BOJ/dp/BOJ_2579.java)
-- [9095 1, 2, 3 ë”í•˜ê¸° ì‹¤ë²„3](./BOJ/dp/BOJ_9095.java)
+- <span style="color:silver">**½Ç¹ö1** </span>[1149¹ø RGB°Å¸®](./BOJ/dp/BOJ_1149.java)
+- <span style="color:silver">**½Ç¹ö3** </span>[11659¹ø ±¸°£ ÇÕ ±¸ÇÏ±â 4](./BOJ/dp/BOJ_11659.java)
+- <span style="color:silver">**½Ç¹ö3** </span>[11726¹ø 2xn Å¸ÀÏ¸µ](./BOJ/dp/BOJ_11726.java)
+<!-- [11727  ](./BOJ/dp/BOJ_11727.java)-->
+- <span style="color:silver">**½Ç¹ö1** </span>[12852¹ø 1·Î ¸¸µé±â 2](./BOJ/dp/BOJ_12852.java)
+- <span style="color:silver">**½Ç¹ö3** </span>[1463¹ø 1·Î ¸¸µé±â](./BOJ/dp/BOJ_1463.java)
+- <span style="color:silver">**½Ç¹ö3** </span>[2579¹ø °è´Ü ¿À¸£±â](./BOJ/dp/BOJ_2579.java)
+- <span style="color:silver">**½Ç¹ö3** </span>[9095¹ø 1, 2, 3 ´õÇÏ±â](./BOJ/dp/BOJ_9095.java)
+- <span style="color:gold">**°ñµå5** </span>[12865¹ø Æò¹üÇÑ ¹è³¶](./BOJ/dp/BOJ_12865.java)
 
 ### Recursion
-- [11726 2Ã—n íƒ€ì¼ë§ ì‹¤ë²„3](./BOJ/recursion/BOJ_11726.java)
-- [1629 ê³±ì…ˆ ì‹¤ë²„1](./BOJ/recursion/BOJ_1629.java)
+- <span style="color:silver">**½Ç¹ö3** </span>[11726¹ø 2xn Å¸ÀÏ¸µ](./BOJ/recursion/BOJ_11726.java)
+- <span style="color:silver">**½Ç¹ö1** </span>[1629¹ø °ö¼À](./BOJ/recursion/BOJ_1629.java)
+
+### I/O
+- <span style="color:brown">**ºê·ĞÁî5** </span>[2557¹ø Hello World!](./BOJ/io/BOJ_2557.java)
+- <span style="color:brown">**ºê·ĞÁî5** </span>[1000¹ø A+B](./BOJ/io/BOJ_1000.java)
+- <span style="color:brown">**ºê·ĞÁî5** </span>[2558¹ø A+B -2](./BOJ/io/BOJ_2558.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[10950¹ø A+B -3](./BOJ/io/BOJ_10950.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[10951¹ø A+B -4](./BOJ/io/BOJ_10951.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[10952¹ø A+B -5](./BOJ/io/BOJ_10952.java)
+- <span style="color:brown">**ºê·ĞÁî2** </span>[10953¹ø A+B -6](./BOJ/io/BOJ_10953.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[11021¹ø A+B -7](./BOJ/io/BOJ_11021.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[11022¹ø A+B -8](./BOJ/io/BOJ_11022.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[11718¹ø ±×´ë·Î Ãâ·ÂÇÏ±â](./BOJ/io/BOJ_11718.java)
+- <span style="color:brown">**ºê·ĞÁî1** </span>[11719¹ø ±×´ë·Î Ãâ·ÂÇÏ±â2](./BOJ/io/BOJ_11719.java)
+- <span style="color:brown">**ºê·ĞÁî2** </span>[11720¹ø ¼ıÀÚÀÇ ÇÕ](./BOJ/io/BOJ_11720.java)
+- <span style="color:brown">**ºê·ĞÁî2** </span>[11721¹ø 10°³¾¿ ²÷¾î Ãâ·ÂÇÏ±â](./BOJ/io/BOJ_11721.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[2741¹ø N Âï±â](./BOJ/io/BOJ_2741.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[2742¹ø ±âÂï N](./BOJ/io/BOJ_2742.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[2739¹ø ±¸±¸´Ü](./BOJ/io/BOJ_2739.java)
+- <span style="color:brown">**ºê·ĞÁî1** </span>[1924¹ø 2007³â](./BOJ/io/BOJ_1924.java)
+- <span style="color:brown">**ºê·ĞÁî5** </span>[8393¹ø ÇÕ](./BOJ/io/BOJ_8393.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[10818¹ø ÃÖ¼Ò,ÃÖ´ë](./BOJ/io/BOJ_10818.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[2438¹ø º° Âï±â -1](./BOJ/io/BOJ_2438.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[2439¹ø º° Âï±â -2](./BOJ/io/BOJ_2439.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[2440¹ø º° Âï±â -3](./BOJ/io/BOJ_2440.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[2441¹ø º° Âï±â -4](./BOJ/io/BOJ_2441.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[2442¹ø º° Âï±â -5](./BOJ/io/BOJ_2442.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[2445¹ø º° Âï±â -8](./BOJ/io/BOJ_2445.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[2522¹ø º° Âï±â -12](./BOJ/io/BOJ_2522.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[2446¹ø º° Âï±â -9](./BOJ/io/BOJ_2446.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[10991¹ø º° Âï±â -16](./BOJ/io/BOJ_10991.java)
+- <span style="color:brown">**ºê·ĞÁî3** </span>[10992¹ø º° Âï±â -17](./BOJ/io/BOJ_10992.java)
+
+### Greedy
+- <span style="color:silver">**½Ç¹ö4** </span>[1026¹ø º¸¹°](./BOJ/greedy/BOJ_1026.java)
+- <span style="color:silver">**½Ç¹ö2** </span>[11047¹ø µ¿Àü0](./BOJ/greedy/BOJ_11047.java)
+- <span style="color:silver">**½Ç¹ö2** </span>[1931¹ø È¸ÀÇ½Ç ¹èÁ¤](./BOJ/greedy/BOJ_1931.java)
+- <span style="color:silver">**½Ç¹ö4** </span>[2217¹ø ·ÎÇÁ](./BOJ/greedy/BOJ_2217.java)
