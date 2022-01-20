@@ -13,7 +13,7 @@ public class BOJ_2558 {
 		StringTokenizer st = new StringTokenizer(br.readLine());
 		
 		int a = Integer.parseInt(st.nextToken());
-		
+
 		st = new StringTokenizer(br.readLine());
 		int b = Integer.parseInt(st.nextToken());
 		
