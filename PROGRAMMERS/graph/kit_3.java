@@ -11,6 +11,9 @@ class kit_3 {
             this.y = y;
         }
         
+        public int hashCode() {
+            return Objects.hash(x, y);
+        }
         
         public boolean equals(Object o) {
             return this.x == ((Node) o).x && this.y == ((Node) o).y;
